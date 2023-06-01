@@ -60,7 +60,7 @@ export default function Example() {
             <div>
               <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">O melhor do seu equipamento</h2>
               <p className="mt-4 text-gray-500">
-                Descubra uma nova dimensão sonora com os Patches e IRs de HX Stomp de Lucas Moser! Aperfeiçoe seu timbre com presets personalizados e impulse responses de alta qualidade. Eleve sua música a um novo patamar. Adquira agora e desbloqueie seu potencial criativo!
+                Descubra uma nova dimensão sonora com os Patches e IRs de HX Stomp de xxx! Aperfeiçoe seu timbre com presets personalizados e impulse responses de alta qualidade. Eleve sua música a um novo patamar. Adquira agora e desbloqueie seu potencial criativo!
               </p>
 
               <dl className="mt-16 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 sm:gap-y-16 lg:gap-x-8">
