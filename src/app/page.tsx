@@ -68,7 +68,7 @@ export default function Home() {
                 </span>
               </h2>
               <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-                Vem comigo explorar novos sons, reviews de equipamentos e dicas sobre pedalboards. 🎸✨ #LucasMoser #BluesGuitar #Reviews #Pedalboards
+                Vem comigo explorar novos sons, reviews de equipamentos e dicas sobre pedalboards. 🎸✨#BluesGuitar #Reviews #Pedalboards
               </p>
             </a>
 
